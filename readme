@@ -1,0 +1,29 @@
+# Responsive Landing Page
+
+## Project Description
+This project is a responsive landing page with dynamic navigation, smooth scrolling, and active section highlighting. The page is designed to be usable across modern desktop, tablet, and phone browsers.
+
+## Features
+- Dynamic navigation menu
+- Smooth scrolling to sections
+- Active section highlighting
+- Scroll-to-top button
+- Responsive design
+
+## Usage
+To use this project, simply open the `nd.html` file in your browser. The navigation menu will be built dynamically based on the sections in the HTML.
+
+## Dependencies
+This project does not have any external dependencies. All the required code is included in the HTML, CSS, and JavaScript files.
+
+## Development
+- The navigation menu is built dynamically using JavaScript.
+- Sections are highlighted when they are in the viewport.
+- Smooth scrolling is implemented using the `scrollIntoView` method.
+- A scroll-to-top button appears when the user scrolls down.
+
+## Contributing
+This project for Udacity.
+
+## Author
+This project made by Yaseen Ashqar
